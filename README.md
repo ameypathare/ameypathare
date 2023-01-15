@@ -31,22 +31,14 @@ height = "240" />
 <br>
 <h3 align="left">Languages & Tools:</h3>
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212099762-b82834b3-c24b-4d7a-8d10-671e168793eb.png" height="30"> </a> 
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212124248-aa00ff66-d7c7-4801-b1de-6cbf47bcde5d.png" height="30"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212126372-8fa81a35-1a17-43f2-9dfc-9f7b69de94e3.png" height="45"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212127868-92430b1e-5ebd-4890-af78-6a9d928ed032.png" height="30"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212128771-a10dc4bd-bdc4-4217-959e-806241e779f6.png" height="30"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212129845-614a20ad-878f-4f51-a7f8-a44d6245fa06.png" height="30"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212130816-ff82e9b4-9512-418d-befd-e2b56b57faa5.png" height="30"> </a>
-
 <a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212131458-d37fe078-abff-4380-bc0f-5a7384fdd5ad.png" height="30"> </a>
-
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212132225-8dbf6da8-1294-4de7-9203-5955851b3eab.png" height="30"> </a><br>
+<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212132225-8dbf6da8-1294-4de7-9203-5955851b3eab.png" height="20"> </a><br>
 <br>
 <br>
 <br>
