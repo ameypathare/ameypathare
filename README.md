@@ -1,6 +1,6 @@
-<a> <img align="center" src="https://user-images.githubusercontent.com/67824245/212135429-b1d747f5-7239-46ef-8f25-ac5dcc767ced.jpg" height="280" width = "700"> </a> 
+<a> <img align="center" src="https://user-images.githubusercontent.com/67824245/212135429-b1d747f5-7239-46ef-8f25-ac5dcc767ced.jpg" height="300" width = "900"> </a> 
 
-
+<br>
 
 <h1 align= "center"> Hi👋 there, I'm Amey Pathare </h1>
 
