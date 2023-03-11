@@ -20,7 +20,7 @@ height = "240" />
 
 - 👯 Collaborations are always welcomed for **real world data analyst project** 
 
-- 📫 Reach me at: **pathare.amey@icloud.com**
+- 📫 Reach me at: **pathareamey@outlook.com**
  </p>
 <br>
 <br> 
