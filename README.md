@@ -1,6 +1,9 @@
 <html>
 <head>
-[19199064](https://github.com/ameypathare/ameypathare/assets/67824245/b83d7e05-dd09-43b4-be4d-91d58e7a8642)
+<p align="center">
+  <img src="D:/software-engineer/19199064.jpg" width="350" title="hover text">
+  <img src="D:/software-engineer/19199064.jpg" width="350" alt="accessibility text">
+</p>
 </head>
 
 
