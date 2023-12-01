@@ -1,10 +1,8 @@
 <html>
 <head>
-<p align="center">
-  <img src="D:/software-engineer/19199064.jpg" width="350" title="hover text">
-  <img src="D:/software-engineer/19199064.jpg" width="350" alt="accessibility text">
-</p>
+<img src="https://img.freepik.com/free-vector/setup-analytics-concept-illustration_114360-1859.jpg?w=740&t=st=1701419129~exp=1701419729~hmac=729ed800e478260ca2cdf3a687718bb0fdc51c48732a732e785df92927fb5512" align = "center" /> 
 </head>
+
 
 
 
