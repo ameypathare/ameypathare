@@ -5,22 +5,21 @@
 </p>
 </head>
 
-<h1 align= "center">Welcome to My Data World!</h1>
+<h1 align= "center">${\color{red}Welcome}$&nbsp ${\color{orange}To}$&nbsp ${\color{lightgreen}My}$&nbsp ${\color{blue}Data}$&nbsp ${\color{yellow}World!}$ </h1>
 
 
 
 
-<h2 align= "left"> Hello there! 👋 Welcome to my GitHub repository, where I showcase my journey as a budding Data Analyst. I'm Amey Pathare, a recent graduate passionate about unraveling insights from data and transforming raw information into meaningful narratives. </h2> 
+<h2 align= "left"> Hello there! 👋 I'm <code style="color : red">Amey Pathare</code> & Welcome to my GitHub repository, where I showcase my journey as a budding Data Analyst. I'm Amey Pathare, a recent graduate passionate about unraveling insights from data and transforming raw information into meaningful narratives. </h2> 
 <br>
 
 
 
 
  
-<h3 align= "left">👨‍💼 About me </h3>
+<h3 align= "left"> 👨‍💼&nbsp ${\color{lightblue}About \space me}$ </h3>
 <img align= "right" src="https://github.com/ameypathare/ameypathare/assets/67824245/5967641c-9e39-4131-80f5-f35bdac8f32e" alt="ameypathare" width = "300" 
 height = "280" />
-
 <ul>
   <li>🎓 Education: I graduated with honors in Computer Engineering from University Of Mumbai. My academic journey has equipped me with a strong foundation in statistical analysis, data modeling, and problem-solving.</li>
   <br>
@@ -36,7 +35,7 @@ height = "280" />
 <br>
 
 
-<h3 align="left">⌨ Skills</h3>
+<h3 align="left">⌨&nbsp ${\color{lightblue}Skills}$ </h3>
 <unl>
   <li>Data Analysis: Proficient in conducting exploratory data analysis (EDA) to extract meaningful patterns and trends. Skilled in translating complex findings into actionable insights.</li>
   <br>
