@@ -1,6 +1,6 @@
 <html>
 <head>
-<img src="https://img.freepik.com/free-vector/setup-analytics-concept-illustration_114360-1859.jpg?w=740&t=st=1701419129~exp=1701419729~hmac=729ed800e478260ca2cdf3a687718bb0fdc51c48732a732e785df92927fb5512" align = "center" /> 
+<img src="https://img.freepik.com/free-vector/software-engineer-statistician-visualizer-analyst-working-project-big-data-conference-big-data-presentation-data-science-concept-bright-vibrant-violet-isolated-illustration_335657-391.jpg?w=900&t=st=1701419250~exp=1701419850~hmac=4511fafd1c1f0f225cd39c1663a7a324143253b6edf0e3a6c216ef2cc2aaa35f" align = "center" /> 
 </head>
 
 
