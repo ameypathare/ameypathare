@@ -1,60 +1,64 @@
 <html>
 <head>
-<img src="https://img.freepik.com/free-vector/software-engineer-statistician-visualizer-analyst-working-project-big-data-conference-big-data-presentation-data-science-concept-bright-vibrant-violet-isolated-illustration_335657-391.jpg?w=900&t=st=1701419250~exp=1701419850~hmac=4511fafd1c1f0f225cd39c1663a7a324143253b6edf0e3a6c216ef2cc2aaa35f" align = "center" /> 
+<p align="center">
+ <img src="https://github.com/ameypathare/ameypathare/assets/67824245/cb338c06-b6e2-4991-93f2-081004b79559" alt="Alt text" width="550" height="350">
+</p>
 </head>
 
+<h1 align= "center">Welcome to My Data World!</h1>
 
 
 
 
-<h1 align= "center"> Hi👋 there, I'm Amey Pathare </h1>
-<h3 align= "center"> As a Aspiring data analyst, I am passionate about using  data to drive business decisions and uncover insights. My Github profile showcases some of my personal projects, which demonstrate my abilities and my eagerness to keep learning  </h3> 
+<h2 align= "left"> Hello there! 👋 Welcome to my GitHub repository, where I showcase my journey as a budding Data Analyst. I'm Amey Pathare, a recent graduate passionate about unraveling insights from data and transforming raw information into meaningful narratives. </h2> 
+<br>
+
+
+
+
+ 
+<h3 align= "left">👨‍💼 About me </h3>
+<img align= "right" src="https://github.com/ameypathare/ameypathare/assets/67824245/5967641c-9e39-4131-80f5-f35bdac8f32e" alt="ameypathare" width = "300" 
+height = "280" />
+
+<ul>
+  <li>🎓 Education: I graduated with honors in Computer Engineering from University Of Mumbai. My academic journey has equipped me with a strong foundation in statistical analysis, data modeling, and problem-solving.</li>
+  <br>
+  <li>🌐 LinkedIn:  Connect with me on &nbsp <a href="www.linkedin.com/in/ameypathare">
+  <img src="https://github.com/ameypathare/ameypathare/assets/67824245/8acdd31b-b0a9-4859-83de-dc8478e17daa **width="15" height="20"**") alt="LinkedIn logo">
+</a> &nbsp to delve deeper into my professional background and stay updated on my latest endeavors. Connect with me on to delve deeper into my professional background and stay updated on my latest endeavors.</li>
+  <br>
+ <li>📧 Email: Drop me a line at pathareamey@proton.me, if you want to discuss potential collaborations, opportunities, or just geek out about data!</li>
  <br>
+ <li>My Portfolio: https://ameypathare.github.io/portfolio/</li>
+</ul>
 
-<img align= "right" src="https://user-images.githubusercontent.com/122727340/212545090-cddd3739-de99-4f5f-82cc-e80cbbac8145.png" alt="ameypathare" width = "330" 
-height = "240" />
 <br>
-<p align="left"> 
-  
-- 🔭 I’m currently working on **Data Analyst Project to solve business problem** 
 
-- 🌱 I’m currently learning **data science & analytics**   
 
-- 👯 Collaborations are always welcomed for **real world data analyst project** 
+<h3 align="left">⌨ Skills</h3>
+<unl>
+  <li>Data Analysis: Proficient in conducting exploratory data analysis (EDA) to extract meaningful patterns and trends. Skilled in translating complex findings into actionable insights.</li>
+  <br>
+  <li>Programming Languages: Fluent in Python, with expertise in libraries such as pandas and NumPy. Proficient in crafting efficient SQL queries for data extraction and manipulation.</li>
+  <br>
+ <li>Data Visualization: Adept at creating compelling visualizations using tools like Matplotlib and Seaborn for static representations and Tableau for interactive dashboards. 
+     </li>
+  <br>
+ <li>Database Management: Familiar with SQL databases, capable of structuring and querying databases for streamlined data retrieval.</li>
+ <br>
+ <li>Tools: Excel, Power BI, SAAS and Jupyter Notebooks are integral parts of my toolkit for effective data analysis and collaboration.
+</li>
+</unl>
 
-- 📫 Reach me at: **pathareamey@outlook.com**
- </p>
+
+
+
+ 
 <br>
-<br> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ameypathare/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/67824245/212096249-74de2c22-be2c-4e08-88e6-872e4e1a2bed.png" alt="ameypathare" width="40" height = "40" /> </a>            <a href="https://www.hackerrank.com/amey824" target="blank"><img align="left" src="https://user-images.githubusercontent.com/67824245/212097325-e0cbb78e-3e47-4ce7-abdc-c428cfd1e5a9.png" alt="ameypathare" width="55" height = "55" </a>
- </p> 
+<h3 align="center">📫 Let's Connect!</h3>
+<h4 aligh = center>I'm always open to collaborations, discussions, or any feedback you may have. Whether you're a fellow data enthusiast or a potential collaborator, feel free to reach out to me through LinkedIn or email.</h4>
+<h4 align = center>Thank you for visiting my repository! 🌠 Let's explore the data world together!</h4>
+                                                        
 <br>
-<h3 align="left">Languages & Tools:</h3>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212099762-b82834b3-c24b-4d7a-8d10-671e168793eb.png" height="40"> </a> 
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212124248-aa00ff66-d7c7-4801-b1de-6cbf47bcde5d.png" height="40"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212126372-8fa81a35-1a17-43f2-9dfc-9f7b69de94e3.png" height="55"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212127868-92430b1e-5ebd-4890-af78-6a9d928ed032.png" height="40"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212128771-a10dc4bd-bdc4-4217-959e-806241e779f6.png" height="40"> </a>
-<br>
-<br>
-<br>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212129845-614a20ad-878f-4f51-a7f8-a44d6245fa06.png" height="40"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212130816-ff82e9b4-9512-418d-befd-e2b56b57faa5.png" height="40"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212131458-d37fe078-abff-4380-bc0f-5a7384fdd5ad.png" height="40"> </a>
-<a> <img align="left" src="https://user-images.githubusercontent.com/67824245/212132225-8dbf6da8-1294-4de7-9203-5955851b3eab.png" height="40"> </a><br>
-<br>
-<br>
-<br>
-<a> <img align="center" src="https://user-images.githubusercontent.com/122727340/212548767-12d3c832-6188-4d30-9623-59687a3e5d3e.png" width = "100%"> </a>  
-
-
-
-
-
-
-
-
-
 
