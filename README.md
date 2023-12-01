@@ -23,7 +23,7 @@ height = "280" />
 <ul>
   <li>Education: I graduated with honors in Computer Engineering from University Of Mumbai. My academic journey has equipped me with a strong foundation in statistical analysis, data modeling, and problem-solving.</li>
   <br>
-  <li>LinkedIn:  Connect with me on &nbsp <a href="www.linkedin.com/in/ameypathare">
+  <li>LinkedIn:  Connect with me on &nbsp <a href="https://linkedin.com/in/ameypathare">
   <img src="https://github.com/ameypathare/ameypathare/assets/67824245/8acdd31b-b0a9-4859-83de-dc8478e17daa **width="20" height="25"**") alt="LinkedIn logo">
 </a> &nbsp to delve deeper into my professional background and stay updated on my latest endeavors.</li>
   <br>
