@@ -17,14 +17,14 @@
 
 
  
-<h3 align= "left"> 👨‍💼&nbsp ${\color{lightblue}About \space me}$ </h3>
+<h3 align= "left">  ${\color{lightblue}About \space me}$ </h3>
 <img align= "right" src="https://github.com/ameypathare/ameypathare/assets/67824245/5967641c-9e39-4131-80f5-f35bdac8f32e" alt="ameypathare" width = "300" 
 height = "280" />
 <ul>
   <li>Education: I graduated with honors in Computer Engineering from University Of Mumbai. My academic journey has equipped me with a strong foundation in statistical analysis, data modeling, and problem-solving.</li>
   <br>
   <li>LinkedIn:  Connect with me on &nbsp <a href="https://linkedin.com/in/ameypathare">
-  <img src="https://github.com/ameypathare/ameypathare/assets/67824245/8acdd31b-b0a9-4859-83de-dc8478e17daa **width="20" height="25"**") alt="LinkedIn logo">
+  <img src="https://github.com/ameypathare/ameypathare/assets/67824245/8acdd31b-b0a9-4859-83de-dc8478e17daa **width="25" height="30"**") alt="LinkedIn logo">
 </a> &nbsp to delve deeper into my professional background and stay updated on my latest endeavors.</li>
   <br>
  <li>Email: Drop me a line at pathareamey@proton.me, if you want to discuss potential collaborations, opportunities, or just geek out about data!</li>
@@ -35,7 +35,7 @@ height = "280" />
 <br>
 
 
-<h3 align="left">🖥️&nbsp ${\color{lightblue}Skills}$ </h3>
+<h3 align="left"> ${\color{lightblue}Skills}$ </h3>
 <unl>
   <li>Data Analysis: Proficient in conducting exploratory data analysis (EDA) to extract meaningful patterns and trends. Skilled in translating complex findings into actionable insights.</li>
   <br>
