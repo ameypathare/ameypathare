@@ -29,7 +29,7 @@ height = "280" />
   <br>
  <li>Email: Drop me a line at pathareamey@proton.me, if you want to discuss potential collaborations, opportunities, or just geek out about data!</li>
  <br>
- <li>My Portfolio: https://ameypathare.github.io/portfolio/</li>
+ <li>My Portfolio: https://amey-portfolio.super.site/</li>
 </ul>
 
 <br>
