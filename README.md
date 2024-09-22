@@ -1,63 +1,11 @@
-<html>
-<head>
-<p align="center">
- <img src="https://github.com/ameypathare/ameypathare/assets/67824245/cb338c06-b6e2-4991-93f2-081004b79559" alt="Alt text" width="550" height="350">
-</p>
-</head>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amey Pathare
+====================================================================================================================================
 
-<h1 align= "center">${\color{red}Welcome}$&nbsp To My ${\color{lightgreen}Data \space World!}$&nbsp  </h1>
+Data Analyst | BI Developer
+---------------------------
 
+I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels. 𝐌𝐲 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬: ● Data cleaning and wrangling ● Data analysis and visualization ● Statistical modeling and forecasting ● Report writing and communication 𝐈'𝐦 𝐩𝐚𝐫𝐭𝐢𝐜𝐮𝐥𝐚𝐫𝐥𝐲 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐚𝐭: ● Identifying and communicating actionable insights ● Building and deploying data-driven solutions ● Collaborating effectively with cross-functional teams ● Staying up-to-date with the latest data trends and technologies I'm always looking for new opportunities to leverage my skills and experience to make a positive impact.
 
-
-
-<h2 align= "left"> Hello there! 👋 I'm Amey Pathare & Welcome to my GitHub repository, where I showcase my journey as a budding Data Analyst. I'm Amey Pathare, a recent graduate passionate about unraveling insights from data and transforming raw information into meaningful narratives. </h2> 
-<br>
-
-
-
-
- 
-<h3 align= "left">  ${\color{lightblue}About \space me}$ </h3>
-<img align= "right" src="https://github.com/ameypathare/ameypathare/assets/67824245/5967641c-9e39-4131-80f5-f35bdac8f32e" alt="ameypathare" width = "300" 
-height = "280" />
-<ul>
-  <li>Education: I graduated with honors in Computer Engineering from University Of Mumbai. My academic journey has equipped me with a strong foundation in statistical analysis, data modeling, and problem-solving.</li>
-  <br>
-  <li>LinkedIn:  Connect with me on &nbsp <a href="https://linkedin.com/in/ameypathare">
-  <img src="https://github.com/ameypathare/ameypathare/assets/67824245/8acdd31b-b0a9-4859-83de-dc8478e17daa **width="25" height="30"**") alt="LinkedIn logo">
-</a> &nbsp to delve deeper into my professional background and stay updated on my latest endeavors.</li>
-  <br>
- <li>Email: Drop me a line at pathareamey@proton.me, if you want to discuss potential collaborations, opportunities, or just geek out about data!</li>
- <br>
- <li>My Portfolio: https://amey-portfolio.super.site/</li>
-</ul>
-
-<br>
-
-
-<h3 align="left"> ${\color{lightblue}Skills}$ </h3>
-<unl>
-  <li>Data Analysis: Proficient in conducting exploratory data analysis (EDA) to extract meaningful patterns and trends. Skilled in translating complex findings into actionable insights.</li>
-  <br>
-  <li>Programming Languages: Fluent in Python, with expertise in libraries such as pandas and NumPy. Proficient in crafting efficient SQL queries for data extraction and manipulation.</li>
-  <br>
- <li>Data Visualization: Adept at creating compelling visualizations using tools like Matplotlib and Seaborn for static representations and Tableau for interactive dashboards. 
-     </li>
-  <br>
- <li>Database Management: Familiar with SQL databases, capable of structuring and querying databases for streamlined data retrieval.</li>
- <br>
- <li>Tools: Excel, Power BI, SAAS and Jupyter Notebooks are integral parts of my toolkit for effective data analysis and collaboration.
-</li>
-</unl>
-
-
-
-
- 
-<br>
-<h3 align="center">📫 Let's Connect!</h3>
-<h4 aligh = center>I'm always open to collaborations, discussions, or any feedback you may have. Whether you're a fellow data enthusiast or a potential collaborator, feel free to reach out to me through LinkedIn or email.</h4>
-<h4 align = center>Thank you for visiting my repository! 🌠 Let's explore the data world together!</h4>
-                                                        
-<br>
-
+* 🌍  I'm based in France
+* 🖥️  See my portfolio at [Amey's Portfolio](https://amey-portfolio.super.site/)
+* ✉️  You can contact me at [abc@gamil.com](mailto:ameykpathare@gamil.com)
