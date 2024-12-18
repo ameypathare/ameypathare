@@ -52,6 +52,14 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 </a>
 
 <br>
+
+<a href="https://github.com/ameypathare/mass_shooting_sql_queries](https://github.com/ameypathare/bike_sharing_code">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+
+<br>
 <br>
 
 ## Skills
