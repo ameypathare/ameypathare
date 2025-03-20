@@ -90,16 +90,9 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 
 
-
-
-
-
-
-
-
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=powerbi,gcp,azure,react,vue,flutter&perline=8)](https://skillicons.dev)
+
 
 
 ## Internship Experience
