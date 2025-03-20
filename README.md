@@ -76,8 +76,13 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
   ![](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![](https://img.shields.io/badge/SSAS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=8)](https://skillicons.dev)
+
 
 ## Internship Experience
 
