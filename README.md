@@ -97,11 +97,15 @@ I'm a passionate data analyst that enjoys turning data into insights that can be
 
 ## Internship Experience
 
-| Company  | <div align="center">Role:&nbsp;&nbsp;Business Analyst</div>  |
-| --| -- |
-|  The Sparks Foundation | 1. Executed EDA using Python to extract meaningful insights from the data informing business decisions and enhancing profitability. <br> 2. Optimized company’s products by focusing on high-profit categories and reducing its reliance by 10% on less profitable products. <br> 3. Aligned inventory levels for certain products with sales demand that were leading to stockouts and excess inventory costs. <br> 4. Pioneered expansion into untapped markets by driving a 25% surge in company reach and minimizing risks associated with over concentration. <br> 5. Enhanced sales by 20% by expansion into two additional regions, leading to a 15% rise in profit. <br> |
-|   | <div align="center">**Role:&nbsp;&nbsp;Data Analyst**</div> |
-| iNeuron Intelligence Pvt. limited | 1. Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. <br> 2. Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. <br> 3. Facilitated knowledge sharing of debt trends and risks fostering collaboration and improving decision-making processes. <br> 4. Empowered decision makers with data-driven insights on debt sustainability risks to reduce potential losses by estimated 20%. <br> 5. Crafted comprehensive reports and visualizations by providing a clear comprehension of intricate debt trends leading to a 10% increase in client satisfaction and engagement. |
+| **Company**  | **Role** |
+|-------------|---------|
+| **The Sparks Foundation** | <div align="center">**Business Analyst**</div> |
+|  | - Executed EDA using Python to extract meaningful insights from the data, informing business decisions and enhancing profitability. <br> - Optimized company’s products by focusing on high-profit categories and reducing reliance by 10% on less profitable products. <br> - Aligned inventory levels for certain products with sales demand, preventing stockouts and excess inventory costs. <br> - Pioneered expansion into untapped markets, driving a 25% surge in company reach and minimizing risks associated with over-concentration. <br> - Enhanced sales by 20% by expanding into two additional regions, leading to a 15% rise in profit. |
+| **iNeuron Intelligence Pvt. Ltd.** | <div align="center">**Data Analyst**</div> |
+|  | - Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. <br> - Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. <br> - Facilitated knowledge sharing of debt trends and risks, fostering collaboration and improving decision-making processes. <br> - Empowered decision-makers with data-driven insights on debt sustainability risks, reducing potential losses by an estimated 20%. <br> - Crafted comprehensive reports and visualizations, providing a clear comprehension of intricate debt trends, leading to a 10% increase in client satisfaction and engagement. |
+| **Upwork** | <div align="center">**Data Analyst**</div> |
+|  | - Developed interactive dashboards in Power BI and Tableau to visualize sales trends, inventory levels, and customer preferences for a clothing store, enabling data-driven decisions that improved stock replenishment efficiency by 18%. <br> - Analyzed sales and inventory data using SQL to identify slow-moving and high-demand products, optimizing stock levels and reducing overstock by 15% for the clothing store. <br> - Built machine learning models to forecast seasonal demand for clothing items, improving inventory planning accuracy by 20% and minimizing stockouts during peak seasons. <br> - Automated data cleaning and preprocessing of product catalogs using Python, reducing manual effort by 30% and ensuring accurate and up-to-date inventory records for the clothing store. |
+
 
 
 <br>
