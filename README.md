@@ -1,4 +1,4 @@
-# Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Caleigh Harber
+# Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Amey Pathare
 
 ## Data Analyst | Engineer | BI Developer
 
