@@ -1,41 +1,33 @@
+# Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Caleigh Harber
 
-Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Amey Pathare
-====================================================================================================================================
+## Data Analyst | Engineer | BI Developer
 
-Data Analyst | Engineer | BI Developer
----------------------------
+<img src="https://github.com/user-attachments/assets/18e629d7-227b-420d-847b-e1fbd740b2c6" alt="Office Environment" width="300" align="right" style="margin-left: 20px; border-radius: 8px;">
 
-I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including as SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels. 
+<div align="justify">
 
+I'm a passionate data analyst that enjoys turning data into insights that can be used to make great changes. I am capable of uncovering hidden patterns and trends in complicated datasets thanks to my analytical mind and acute attention to detail, which I then use to create clear, brief narratives that guide strategic decision-making. My ability to effectively communicate data insights across diverse stakeholders, from technical teams to non-technical leadership, ensures that valuable information reaches the right people at the right time. I am skilled in a variety of data analysis tools and techniques, including SQL, Power BI, Excel, Python and I'm always looking to increase my knowledge and proficiency in the rapidly developing field of data science. In addition to my technical expertise, I have great interpersonal and communication abilities, which enable me to work well in dynamic teams and forge long-lasting connections with stakeholders at all levels.
+
+</div>
+
+---
 
 ### My Expertise includes
 
-* Data cleaning and wrangling
-* Data analysis and visualization
-* Statistical modeling and forecasting
-* Report writing and communication
+- Data cleaning and wrangling  
+- Data analysis and visualization  
+- Statistical modeling and forecasting  
+- Report writing and communication  
 
 ### I'm Particularly Skilled at
 
-* Identifying and communicating actionable insights
-* Building and deploying data-driven solutions
-* Collaborating effectively with cross-functional teams
-* Staying up-to-date with the latest data trends and technologies
-  
-<br>
+- Identifying and communicating actionable insights  
+- Building and deploying data-driven solutions  
+- Collaborating effectively with cross-functional teams  
+- Staying up-to-date with the latest data trends and technologies  
 
-## Socials
-<ul>
-  <li>🌍  I'm based in France</li>
-  <li>🖥️  See my portfolio at <a href="https://amey-portfolio.super.site/" target="_blank">Amey's Portfolio</a></li>
-  <li>✉️  You can email me at <a href="mailto:ameykpathare@gmail.com">ameykpathare@gmail.com</a></li>
-</ul>
 
-<br>
 
-<p align="left"> <a href="https://www.github.com/ameypathare/ameypathare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/ameypathare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.x.com/amey__pathare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 <br>
 
