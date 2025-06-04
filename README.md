@@ -39,8 +39,9 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <br>
 
-<a href="https://github.com/ameypathare/rice_image_classification">
+<a href="https://github.com/ameypathare/hotel-reviews-prediction-llm-ml">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-reviews-prediction-llm-ml&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <br>
 
@@ -58,12 +59,6 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <a href="https://github.com/ameypathare/bike_sharing_code">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=bike_sharing_code&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/ameypathare/rice_image_classification">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
