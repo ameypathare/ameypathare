@@ -33,6 +33,17 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 ## My Portfolio repositories
 
+<a href="https://github.com/ameypathare/rice_image_classification">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/ameypathare/rice_image_classification">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-reviews-prediction-llm-ml&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+
+<br>
+
 <a href="https://github.com/ameypathare/shopclues_sql_queries">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -55,7 +66,6 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
 <br>
 
 ## Skills
