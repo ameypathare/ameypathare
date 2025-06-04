@@ -39,8 +39,8 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 <br>
 
-<a href="https://github.com/ameypathare/hotel-reviews-prediction-llm-ml">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-reviews-prediction-llm-ml&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ameypathare/hotel-review-prediction">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-review-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
