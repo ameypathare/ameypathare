@@ -32,34 +32,62 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 <br>
 
 ## My Portfolio repositories
-
-<a href="https://github.com/ameypathare/rice_image_classification">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=rice_image_classification&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/ameypathare/hotel-review-prediction">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=hotel-review-prediction&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/ameypathare/shopclues_sql_queries">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=shopclues_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/ameypathare/mass_shooting_sql_queries">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=mass_shooting_sql_queries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/ameypathare/bike_sharing_code">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ameypathare&repo=bike_sharing_code&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<table>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/user-attachments/assets/4a18b840-c1ab-4404-aebf-921f08fc7bef" width="200"/>
+    </td>
+    <td>
+      <h3>Mass Shooting Analysis</h3>
+      <p>Analysis of mass shooting incidents with SQL queries, data visualization, and trend analysis to understand patterns and insights.</p>
+      <a href="https://github.com/ameypathare/mass_shooting_sql_queries">View Repository</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/user-attachments/assets/6c908744-110b-47f0-a958-69c13cd3d415" width="200"/>
+    </td>
+    <td>
+      <h3>E-commerce Analysis</h3>
+      <p>Comprehensive analysis of e-commerce sales data, SQL queries, and insights for inventory and sales trends.</p>
+      <a href="https://github.com/ameypathare/shopclues_sql_queries">View Repository</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/user-attachments/assets/276dfe74-106c-4d05-b927-d81ef4e6ee53" width="200"/>
+    </td>
+    <td>
+      <h3>Bike Sharing Analysis</h3>
+      <p>Analysis of bike sharing data using Python, data visualization, and predictive modeling for demand forecasting.</p>
+      <a href="https://github.com/ameypathare/bike_sharing_code">View Repository</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/user-attachments/assets/a3374487-06a1-4799-af3b-a2332f6b2fc5" width="200"/>
+    </td>
+    <td>
+      <h3>Rice Classification Prediction & Analysis</h3>
+      <p>Machine learning project for classifying rice images using Python and deep learning models, including performance analysis.</p>
+      <a href="https://github.com/ameypathare/rice_image_classification">View Repository</a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="250">
+      <img src="https://github.com/user-attachments/assets/75e41296-c52d-48bc-87f8-b2ed2f13b515" width="200"/>
+    </td>
+    <td>
+      <h3>Hotel Review Prediction & Analysis</h3>
+      <p>Sentiment analysis on hotel reviews using NLP models and ML algorithms to predict review ratings and customer sentiment.</p>
+      <a href="https://github.com/ameypathare/hotel-review-prediction">View Repository</a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
