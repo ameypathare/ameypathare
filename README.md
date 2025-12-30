@@ -39,7 +39,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
     </td>
     <td>
       <h3>Mass Shooting Analysis</h3>
-      <p>Analysis of mass shooting incidents with SQL queries, data visualization, and trend analysis to understand patterns and insights.</p>
+      <p>Analysis of mass shooting incidents with SQL queries, data visualization and trend analysis to understand patterns and insights.</p>
       <a href="https://github.com/ameypathare/mass_shooting_sql_queries">View Repository</a>
     </td>
   </tr>
@@ -50,7 +50,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
     </td>
     <td>
       <h3>E-commerce Analysis</h3>
-      <p>Comprehensive analysis of e-commerce sales data, SQL queries, and insights for inventory and sales trends.</p>
+      <p>Comprehensive analysis of e-commerce sales data, SQL queries and insights for inventory and sales trends.</p>
       <a href="https://github.com/ameypathare/shopclues_sql_queries">View Repository</a>
     </td>
   </tr>
@@ -61,7 +61,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
     </td>
     <td>
       <h3>Bike Sharing Analysis</h3>
-      <p>Analysis of bike sharing data using Python, data visualization, and predictive modeling for demand forecasting.</p>
+      <p>Analysis of bike sharing data using Python, data visualization and predictive modeling for demand forecasting.</p>
       <a href="https://github.com/ameypathare/bike_sharing_code">View Repository</a>
     </td>
   </tr>
@@ -72,7 +72,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
     </td>
     <td>
       <h3>Rice Classification Prediction & Analysis</h3>
-      <p>Machine learning project for classifying rice images using Python and deep learning models, including performance analysis.</p>
+      <p>Machine learning project for classifying rice images using Python and deep learning models including performance analysis.</p>
       <a href="https://github.com/ameypathare/rice_image_classification">View Repository</a>
     </td>
   </tr>
@@ -83,7 +83,7 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
     </td>
     <td>
       <h3>Hotel Review Prediction & Analysis</h3>
-      <p>Sentiment analysis on hotel reviews using NLP models and ML algorithms to predict review ratings and customer sentiment.</p>
+      <p>Sentiment analysis on hotel reviews using ML algorithms and Transformers to predict review ratings and customer sentiment.</p>
       <a href="https://github.com/ameypathare/hotel-review-prediction">View Repository</a>
     </td>
   </tr>
