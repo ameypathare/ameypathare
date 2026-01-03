@@ -125,16 +125,18 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 
 
 
-## Internship Experience
+## Experience
 
-| **Company**  | **Role** |
+| **Company** | **Role** |
 |-------------|---------|
 | **The Sparks Foundation** | <div align="center">**Business Analyst**</div> |
-|  | - Executed EDA using Python to extract meaningful insights from the data, informing business decisions and enhancing profitability. <br> - Optimized company’s products by focusing on high-profit categories and reducing reliance by 10% on less profitable products. <br> - Aligned inventory levels for certain products with sales demand, preventing stockouts and excess inventory costs. <br> - Pioneered expansion into untapped markets, driving a 25% surge in company reach and minimizing risks associated with over-concentration. <br> - Enhanced sales by 20% by expanding into two additional regions, leading to a 15% rise in profit. |
+| | 𖧹 Python EDA turned data into profit-driving insights for furniture sales <br> 𖧹 Focused on high-margin products and dropped low performers <br> 𖧹 Aligned inventory with demand to stop stockouts and waste <br> 𖧹 Expanded to new markets by +25% reach and less risk <br> 𖧹 New regions boosted by 6% sales and 12% profit |
 | **iNeuron Intelligence Pvt. Ltd.** | <div align="center">**Data Analyst**</div> |
-|  | - Conducted a comprehensive analysis using SQL and Power BI to identify global debt trends and risk management techniques. <br> - Emphasized the growing risk of debt crises in countries with high debt-to-GDP ratios and weak fiscal positions. <br> - Facilitated knowledge sharing of debt trends and risks, fostering collaboration and improving decision-making processes. <br> - Empowered decision-makers with data-driven insights on debt sustainability risks, reducing potential losses by an estimated 20%. <br> - Crafted comprehensive reports and visualizations, providing a clear comprehension of intricate debt trends, leading to a 10% increase in client satisfaction and engagement. |
+| | 𖧹 Used SQL and Power BI to analyze global debt and identify crisis risks <br> 𖧹 Flagged vulnerable countries based on debt-to-GDP ratios and weak fiscal health <br> 𖧹 Helped teams make smarter decisions by sharing clear, actionable insights <br> 𖧹 Protected the firm from ~0.8% potential losses through early risk detection <br> 𖧹 Created visualizations that increased client engagement and satisfaction by 10% |
 | **Upwork** | <div align="center">**Data Analyst**</div> |
-|  | - Developed interactive dashboards in Power BI and Tableau to visualize sales trends, inventory levels, and customer preferences for a clothing store, enabling data-driven decisions that improved stock replenishment efficiency by 18%. <br> - Analyzed sales and inventory data using SQL to identify slow-moving and high-demand products, optimizing stock levels and reducing overstock by 15% for the clothing store. <br> - Built machine learning models to forecast seasonal demand for clothing items, improving inventory planning accuracy by 20% and minimizing stockouts during peak seasons. <br> - Automated data cleaning and preprocessing of product catalogs using Python, reducing manual effort by 30% and ensuring accurate and up-to-date inventory records for the clothing store. |
+| | 𖧹 Used SQL to dig into clothing inventory data and cut overstock by 12% <br> 𖧹 Built Power BI dashboards that gave stores real-time performance visibility, speeding decisions by 08% <br> 𖧹 Automated tedious data cleaning tasks in Python, saving 30% of manual effort <br> 𖧹 Created Excel reports that revealed pricing gaps, helping improve strategies by 10% |
+| **Qonto** | <div align="center">**Data Analyst**</div> |
+| | - Currently Ongoing |
 
 
 
