@@ -130,13 +130,13 @@ I'm a passionate data analyst and engineer who loves turning complex data into m
 | **Company** | **Role** |
 |-------------|---------|
 | **The Sparks Foundation** | <div align="center">**Business Analyst**</div> |
-| | 𖧹 Python EDA turned data into profit-driving insights for furniture sales <br> 𖧹 Focused on high-margin products and dropped low performers <br> 𖧹 Aligned inventory with demand to stop stockouts and waste <br> 𖧹 Expanded to new markets by +25% reach and less risk <br> 𖧹 New regions boosted by 6% sales and 12% profit |
+| | 𖧹 Python EDA turned data into profit-driving insights for furniture sales <br> 𖧹 Focused on high-margin products and dropped low performers <br> 𖧹 Aligned inventory with demand to stop stockouts and waste <br> 𖧹 Expanded to new markets by +2% reach and less risk <br> 𖧹 New regions boosted by 1.5%  sales and 6% profit |
 | **iNeuron Intelligence Pvt. Ltd.** | <div align="center">**Data Analyst**</div> |
 | | 𖧹 Used SQL and Power BI to analyze global debt and identify crisis risks <br> 𖧹 Flagged vulnerable countries based on debt-to-GDP ratios and weak fiscal health <br> 𖧹 Helped teams make smarter decisions by sharing clear, actionable insights <br> 𖧹 Protected the firm from ~0.8% potential losses through early risk detection <br> 𖧹 Created visualizations that increased client engagement and satisfaction by 10% |
 | **Upwork** | <div align="center">**Data Analyst**</div> |
 | | 𖧹 Used SQL to dig into clothing inventory data and cut overstock by 12% <br> 𖧹 Built Power BI dashboards that gave stores real-time performance visibility, speeding decisions by 08% <br> 𖧹 Automated tedious data cleaning tasks in Python, saving 30% of manual effort <br> 𖧹 Created Excel reports that revealed pricing gaps, helping improve strategies by 10% |
 | **Qonto** | <div align="center">**Data Analyst**</div> |
-| | - Currently Ongoing |
+| | 𖧹 Screened politically exposed clients against Ministry of Interior data closing a critical AML gap. <br> 𖧹 Automated Spain's regulatory XML reports via Airflow replacing a multi-hour manual process entirely. <br> 𖧹 Engineered an EDD extractor tool reducing analyst data collection from 30 mins to under 60 seconds. <br> 𖧹 Built Python & SQL pipelines to automate compliance data extraction, cutting manual effort by around 90% |
 
 
 
