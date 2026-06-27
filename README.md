@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-I'm a passionate data analyst and engineer who loves turning complex data into meaningful insights that drive change. With a sharp eye for detail and strong analytical thinking I uncover patterns and trends that shape strategic decisions. I communicate insights clearly across both technical and non-technical teams to ensure the right people get the right information. Skilled in business, machine learning and data tools I'm always eager to grow in the ever-evolving field of data science. My strong communication and teamwork skills help me thrive in dynamic environments and build lasting relationships with stakeholders.
+I'm a passionate data analyst and engineer who loves turning complex data into meaningful insights that drive change. With a sharp eye for detail and strong analytical thinking I uncover patterns and trends that shape strategic decisions. I communicate insights clearly across both technical and non-technical teams to ensure the right people get the right information. Skilled in business and data tools I'm always eager to grow in the ever-evolving field of data analysis. My strong communication and teamwork skills help me thrive in dynamic environments and build lasting relationships with stakeholders.
 
 </div>
 
